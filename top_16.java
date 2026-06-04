@@ -11,6 +11,6 @@ public class top_16 {
     }
     public static void main(String[] unused) {
         int[] a = {1, 2, 3, 4, 5, 6};
-        System.out.println(arrayCountGreaterThan(a, 2));
+        System.out.println(arrayCountGreaterThan(null, 2));
     }
 }
